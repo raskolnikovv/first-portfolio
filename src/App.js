@@ -5,11 +5,14 @@ import About from "./about/About";
 import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
 import Contact from "./contact/Contact";
+import "./styles/App.css";
+import Background from "./background/Background";
 
 const App = () => {
   return (
     <Router>
       <Nav />
+      <Background />
       <Routes>
         <Route path="/" element={<About />} />
         <Route path="/skills" element={<Skills />} />
