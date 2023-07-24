@@ -9,8 +9,9 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *This project does not exist!
+          <br /> Testing this site with a fictitious project, aiming to show my
+          real projects in future updates.
         </p>
       </>
     ),
@@ -23,8 +24,9 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *This project does not exist!
+          <br /> Testing this site with a fictitious project, aiming to show my
+          real projects in future updates.
         </p>
       </>
     ),
@@ -37,8 +39,9 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *This project does not exist!
+          <br /> Testing this site with a fictitious project, aiming to show my
+          real projects in future updates.
         </p>
       </>
     ),
