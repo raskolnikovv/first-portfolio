@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/Background.css";
+import "../styles/background.css";
 import video from "../assets/video3.mp4";
 import fallbackImage from "../assets/img3.png";
 

@@ -2,65 +2,69 @@ const skills = {
   1: [
     {
       title: "HTML",
-      level: 6,
+      level: 4,
     },
     {
       title: "CSS",
-      level: 5,
-    },
-    {
-      title: "SASS",
-      level: 2,
-    },
-    {
-      title: "JavaScript",
-      level: 5,
-    },
-    {
-      title: "TypeScript",
-      level: 4,
-    },
-    {
-      title: "Tailwind CSS",
-      level: 1,
-    },
-    {
-      title: "React JS",
       level: 3,
     },
     {
-      title: "Figma",
+      title: "SASS",
+      level: 1,
+    },
+    {
+      title: "JavaScript",
       level: 4,
+    },
+    {
+      title: "TypeScript",
+      level: 3,
+    },
+    {
+      title: "Tailwind CSS",
+      level: 2,
+    },
+    {
+      title: "React JS",
+      level: 4,
+    },
+    {
+      title: "Figma",
+      level: 3,
     },
   ],
   2: [
     {
-      title: "PostgreSQL",
-      level: 5,
-    },
-    {
-      title: "Node.js",
+      title: "React Native",
       level: 4,
     },
     {
-      title: "MongoDB",
-      level: 2,
-    },
-    {
-      title: "Git",
+      title: "Expo",
       level: 4,
     },
     {
-      title: "PHP",
+      title: "TypeScript",
+      level: 3,
+    },
+    {
+      title: "JavaScript",
+      level: 4,
+    },
+    {
+      title: "CSS",
+      level: 3,
+    },
+    {
+      title: "Redux",
       level: 1,
     },
     {
-      title: "SQL",
+      title: "Git",
       level: 3,
     },
     {
-      title: "Express.js",
-      level: 3,
+      title: "Node.js",
+      level: 1,
     },
   ],
 };
