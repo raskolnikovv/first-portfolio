@@ -1,6 +1,6 @@
 # Portfolio Pessoal - Tema de Jogo
 
-![Portfolio Pessoal - Tema de Jogo](https://gifyu.com/image/ScuY1)
+![Portfolio Pessoal - Tema de Jogo](https://gifyu.com/image/ScuY1) 
 
 Bem-vindo ao meu projeto de portfolio pessoal! Este site foi desenvolvido usando React e possui uma temática inspirada em jogos.
 
